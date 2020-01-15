@@ -1,3 +1,3 @@
 # Node.js
-![nodejs-500x223](https://user-images.githubusercontent.com/16170014/72402429-092a1e80-372e-11ea-9994-ecc73bbc71bd.jpg)
+![Node JS-entenda-o-que-](https://user-images.githubusercontent.com/16170014/72402772-f532ec80-372e-11ea-8903-a7f9798a9664.png)
 Criar o site com Node.js 
